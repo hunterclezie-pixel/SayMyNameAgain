@@ -1,4 +1,11 @@
-﻿namespace SayMyNameAgain
+﻿/* 
+Hunter Clezie 
+Spring 2026
+RCET2265
+SayMyNameAgain
+github url: 
+*/
+namespace SayMyNameAgain
 {
     internal class Program
     {
