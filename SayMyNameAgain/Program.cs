@@ -3,7 +3,7 @@ Hunter Clezie
 Spring 2026
 RCET2265
 SayMyNameAgain
-github url: 
+github url: https://github.com/hunterclezie-pixel/SayMyNameAgain.git
 */
 namespace SayMyNameAgain
 {
